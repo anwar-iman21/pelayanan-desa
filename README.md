@@ -80,7 +80,7 @@ pelayanan-desa/
 <!-- ![Form Pengajuan Surat](screenshots/index.png) -->
 
 ### Halaman Warga — Cek Status Surat
-<!-- ![Cek Status Surat](screenshots/cek-status.png) -->
+screenshots/cek-status.png
 
 ### Login Admin
 <!-- ![Login Admin](screenshots/login.png) -->
