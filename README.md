@@ -77,22 +77,22 @@ pelayanan-desa/
 ## 📸 Screenshot
 
 ### Halaman Warga — Form Pengajuan Surat
- ![Form Pengajuan Surat](screenshots/index.png)
+ ![Form Pengajuan Surat](Screenshots/index.png)
 
 ### Halaman Warga — Cek Status Surat
- ![Form Cek Status Surat](screenshots/cek-status.png)
+ ![Form Cek Status Surat](Screenshots/cek-status.png)
 
 ### Login Admin
- ![Login Admin](screenshots/login.png) 
+ ![Login Admin](Screenshots/login.png) 
 
 ### Dashboard Admin — Daftar Pengajuan Surat
- ![Dashboard Admin](screenshots/admin.png) 
+ ![Dashboard Admin](Screenshots/admin.png) 
 
 ### Kelola Data Warga
- ![Kelola Data Warga](screenshots/admin-warga.png) 
+ ![Kelola Data Warga](Screenshots/admin-warga.png) 
 
 ### Contoh Surat yang Dicetak
- ![Cetak Surat](screenshots/cetak-surat.png) 
+ ![Cetak Surat](Screenshots/cetak-surat.png) 
 
 > Buat folder `screenshots/` di root repo, taruh gambar-gambar tangkapan layar di sana, lalu hapus tanda komentar (`<!-- -->`) di atas biar gambarnya muncul di README GitHub.
 
