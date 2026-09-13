@@ -83,7 +83,7 @@ pelayanan-desa/
  ![Form Cek Status Surat](Screenshots/cek-status.png)
 
 ### Login Admin
- ![Login Admin](Screenshots/login.png) 
+ ![Login Admin](Screenshots/login2.png) 
 
 ### Dashboard Admin — Daftar Pengajuan Surat
  ![Dashboard Admin](Screenshots/admin.png) 
